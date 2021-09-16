@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/meteaybars/Projects/ZGUtils-ClientServer/Server/Server/Server.csproj",
+      "projectUniqueName": "/Users/meteaybars/Projects/zgutils-clientserversln/Server/Server/Server.csproj",
       "projectName": "Server",
-      "projectPath": "/Users/meteaybars/Projects/ZGUtils-ClientServer/Server/Server/Server.csproj",
+      "projectPath": "/Users/meteaybars/Projects/zgutils-clientserversln/Server/Server/Server.csproj",
       "packagesPath": "/Users/meteaybars/.nuget/packages/",
-      "outputPath": "/Users/meteaybars/Projects/ZGUtils-ClientServer/Server/Server/obj/",
+      "outputPath": "/Users/meteaybars/Projects/zgutils-clientserversln/Server/Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/meteaybars/.config/NuGet/NuGet.Config"

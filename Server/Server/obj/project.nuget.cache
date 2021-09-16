@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SJ89bGGzMMTxG7xcrkQ8jOuiou0wG2QYqaTb3cprjdWO0pyLaEKechpSG9GVqiiPw7ygcMmgG4Vnkf1jl/9I1A==",
+  "dgSpecHash": "bwlK6BhbeAr4osRfzBigVApyHDbfHabS23UiVvnS+h93sLkHJIiObqP7T+6YtTTr6oUZPoy1b7xOap5JX7xM+w==",
   "success": true,
-  "projectFilePath": "/Users/meteaybars/Projects/ZGUtils-ClientServer/Server/Server/Server.csproj",
+  "projectFilePath": "/Users/meteaybars/Projects/zgutils-clientserversln/Server/Server/Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

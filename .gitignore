@@ -131,4 +131,5 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+net5.0/
 /.vs
