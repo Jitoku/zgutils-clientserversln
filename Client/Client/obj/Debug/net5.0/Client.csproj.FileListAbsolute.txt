@@ -1,0 +1,15 @@
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/bin/Debug/net5.0/Client.deps.json
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/bin/Debug/net5.0/Client.runtimeconfig.json
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/bin/Debug/net5.0/Client.runtimeconfig.dev.json
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/bin/Debug/net5.0/Client.dll
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/bin/Debug/net5.0/ref/Client.dll
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/bin/Debug/net5.0/Client.pdb
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/obj/Debug/net5.0/Client.csproj.AssemblyReference.cache
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/obj/Debug/net5.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/obj/Debug/net5.0/Client.AssemblyInfoInputs.cache
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/obj/Debug/net5.0/Client.AssemblyInfo.cs
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/obj/Debug/net5.0/Client.csproj.CoreCompileInputs.cache
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/obj/Debug/net5.0/Client.dll
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/obj/Debug/net5.0/ref/Client.dll
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/obj/Debug/net5.0/Client.pdb
+/Users/meteaybars/Projects/ZGUtils-ClientServer/Client/Client/obj/Debug/net5.0/Client.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/meteaybars/.dotnet/store/|arch|/|tfm|",
+      "/Users/meteaybars/.nuget/packages"
+    ]
+  }
+}
